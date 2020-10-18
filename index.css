@@ -1,0 +1,20 @@
+.bg{
+    background-image: url(./Imgs/animation/bg.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.images{
+    display: flex;
+}
+.images img {
+    margin-top: 11cm;
+}
+
+#img2{
+    margin-left: 1cm;
+}
+
